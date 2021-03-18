@@ -13,7 +13,7 @@
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Happy/react-leaflet" alt="React Leaflet Version">
  <img  src="https://img.shields.io/github/package-json/dependency-version/Luksdantas/ReactJS-Happy/typescript" alt="Typescript Version">
 </p>
-hAPPY
+
 <h1>:memo:About</h1>
 <p>Happy is a project developed during the <a href="https://nextlevelweek.com/">Next Level Week 3</a> presented by <a href="https://www.linkedin.com/school/rocketseat/">Rockeseat</a>. This project is a way to help kids who lives in Orphanages.</p>
 <p>API: <a href="https://github.com/Luksdantas/NodeJS-Happy">Happy API</a></p>
